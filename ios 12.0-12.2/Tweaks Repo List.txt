@@ -1,12 +1,39 @@
-https://exqusic.github.io/ -Animationbefast
-
-https://sparkdev.me/ -Snowboard
-
-https://repo.packix.com/ -Muze 4
-
-http://apt.thebigboss.org/repofiles/cydia/ -Cylinder
-
-http://repo.incendo.ws/ -ReProvision
-
-http://gmoran.me/repo/ -Eclipse Dark Mode ios 12
-
+1. https://peterprd.github.io/nightly/
+2. http://rpetri.ch/repo/
+3. http://cydiageek.yourepo.com/
+4. http://mdaus.ch/repo/
+5. https://repo.d4ni.nl/
+6. https://fncxpro.github.io/
+7. https://ryleyangus.com/repo/
+8. http://cydia.ichitaso.com/
+9. http://junesiphone.com/supersecret/
+10. https://williammuff.github.io/repo/
+11. https://ramenrepo.github.io/
+12. http://beta.cpdigitaldarkroom.com/
+13. https://cydia.angelxwind.net/
+14. https://repo.packix.com/
+15. http://cokepokes.github.io/
+16. http://tateu.net/repo/
+17. http://julioverne.github.io/
+18. http://beta.unlimapps.com/
+19. https://shade-zepheri.github.io/
+20. https://leroy-b.github.io/home/repo/
+21. http://c1d3r.com/repo/
+22. https://repo.dynastic.co/
+23. https://repo.midkin.net/
+24. http://repo.nullpixel.uk/
+25. https://repo.cpdigitaldarkroom.com/
+26. http://limneos.net/repo/
+27. http://getdelta.co/
+28. http://dev4i.yourepo.com/
+29. https://midnightchip.github.io/repo/
+30. https://apt.alfhaily.me/
+31. http://deb.danstaface.net/
+32. http://julio.xarold.com/
+33. https://mpg13.github.io/repo/
+34. http://xenpublic.incendo.ws/
+35. https://repo.lonestarx.net/
+36. http://subdiox.com/cydia/
+37. https://creaturesurvive.github.io/
+38. http://beta.laughingquoll.net/repo/
+39. http://beta.sparkservers.co.uk/
